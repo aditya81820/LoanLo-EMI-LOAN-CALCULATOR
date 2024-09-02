@@ -14,7 +14,7 @@ Discover the ultimate financial tool with our app! Effortlessly create and manag
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**UI:** Kotlin , JetPack-Compose
 
-**Server:** Node, Express
+**Database:** Room-Database , SQL-LITE
 
